@@ -23,8 +23,5 @@ This project is a simple authentication system developed using HTML, Bootstrap 5
 ## Screenshots
 Screenshots of all pages are available in the screenshots folder.
 
-## Repository
-Make sure this repository is public for evaluation.
-
 ## Author
 Bindushree C S
